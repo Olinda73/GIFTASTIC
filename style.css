@@ -3,7 +3,7 @@ body {
     /*background-color: #FFFFE5;*/
     background-size: cover;
     /* background-repeat: repeat;*/
-    background-image: url("../images/bg.png");
+    background-color:aqua ;
 }
 
 h1 {
@@ -16,8 +16,7 @@ h1 {
 h1 {
     /* background-color: #05121B;*/
     color: rgba(147, 42, 35, 0.93);
-    font-family: 'Anton', sans-serif;
-    text-align: center;
+    font-family: 'Pacifico', cursive;    text-align: center;
     font-weight: bold;
     font-size: 80px;
     padding: 20px;
